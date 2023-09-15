@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+body{
+    background-color: #cbd6cb ;
+}
+table,td{
+    border: 1px solid black;
+}
